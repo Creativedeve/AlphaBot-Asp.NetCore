@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssetTargetFallback>$(AssetTargetFallback);portable-net45+win8+wp8+wpa81;</AssetTargetFallback>
+    <RootNamespace>Quaestor.Bot</RootNamespace>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
+    <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Migrations\20180726102624_Upgrade_ABP_380.cs" />
+    <Compile Remove="Migrations\20180927062408_test.cs" />
+    <Compile Remove="Migrations\20190128121133_Added_Market_Table.cs" />
+    <Compile Remove="Migrations\20190130081737_Test_Migration.cs" />
+    <Compile Remove="Migrations\20190205102214_Added_PurchasedOrderRecord_Table.cs" />
+    <Compile Remove="Migrations\20190206132454_Added_TradeProfitRate_Table.cs" />
+    <Compile Remove="Migrations\20190206132749_Added_TradeProfitRate_Table.cs" />
+    <Compile Remove="Migrations\20190206132900_Added_TradeProfitRate_Table.cs" />
+    <Compile Remove="Migrations\20190206133002_Added_TradeProfitRate_Table.cs" />
+    <Compile Remove="Migrations\20190206133801_Added_TradeProfitRate_Table.cs" />
+    <Compile Remove="Migrations\20190206134035_Added_TradeProfitRate_Table.cs" />
+    <Compile Remove="Migrations\20190206134248_Added_TradeProfitRate_Table.cs" />
+    <Compile Remove="Migrations\20190206134702_Added_TradeProfitRate_Table.cs" />
+    <Compile Remove="Migrations\20190208052814_Added_TradeProfitRate_Table.cs" />
+    <Compile Remove="Migrations\20190208101655_Changed_DataType_Of_Columns_IN_UserSession_Table.cs" />
+    <Compile Remove="Migrations\20190508121627_Added_UserSessionDetailId_IN_BuyInfo_Table.cs" />
+    <Compile Remove="Migrations\20190508121910_Added_UserSessionDetailId_IN_BuyInfo_Table.cs" />
+    <Compile Remove="Migrations\20190513100137_Added_TradeProfitRateDetail_Table.cs" />
+    <Compile Remove="Migrations\20190513111641_Modified_Column_TO_BuySequence_IN-TradeProfitRateDetail_Table.cs" />
+    <Compile Remove="Migrations\20190709064645_User Device Info Column added in Abp user.cs" />
+    <Compile Remove="Migrations\20190724064223_Add table of supported trade currencies.cs" />
+    <Compile Remove="Migrations\20190921130959_test migration.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.6" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Quaestor.Bot.Core\Quaestor.Bot.Core.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
+  </ItemGroup>
+</Project>

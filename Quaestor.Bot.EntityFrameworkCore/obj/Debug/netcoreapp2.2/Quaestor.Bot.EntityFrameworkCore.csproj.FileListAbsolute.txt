@@ -1,0 +1,16 @@
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Quaestor.Bot.EntityFrameworkCore.dll.config
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Quaestor.Bot.EntityFrameworkCore.deps.json
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Quaestor.Bot.EntityFrameworkCore.runtimeconfig.json
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Quaestor.Bot.EntityFrameworkCore.runtimeconfig.dev.json
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Quaestor.Bot.EntityFrameworkCore.dll
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Quaestor.Bot.EntityFrameworkCore.pdb
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Quaestor.Bot.Core.dll
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Quaestor.Bot.Core.pdb
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Quaestor.Bot.EntityFrameworkCore.csprojAssemblyReference.cache
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Quaestor.Bot.EntityFrameworkCore.dll.config
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Quaestor.Bot.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Quaestor.Bot.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Quaestor.Bot.EntityFrameworkCore.AssemblyInfo.cs
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Quaestor.Bot.EntityFrameworkCore.csproj.CopyComplete
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Quaestor.Bot.EntityFrameworkCore.dll
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Quaestor.Bot.EntityFrameworkCore.pdb

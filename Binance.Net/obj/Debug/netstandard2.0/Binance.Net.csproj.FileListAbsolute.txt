@@ -1,0 +1,9 @@
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Binance.Net\bin\Debug\netstandard2.0\Binance.Net.deps.json
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Binance.Net\bin\Debug\netstandard2.0\Binance.Net.dll
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Binance.Net\bin\Debug\netstandard2.0\Binance.Net.pdb
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Binance.Net\obj\Debug\netstandard2.0\Binance.Net.csprojAssemblyReference.cache
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Binance.Net\obj\Debug\netstandard2.0\Binance.Net.csproj.CoreCompileInputs.cache
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Binance.Net\obj\Debug\netstandard2.0\Binance.Net.AssemblyInfoInputs.cache
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Binance.Net\obj\Debug\netstandard2.0\Binance.Net.AssemblyInfo.cs
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Binance.Net\obj\Debug\netstandard2.0\Binance.Net.dll
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Binance.Net\obj\Debug\netstandard2.0\Binance.Net.pdb

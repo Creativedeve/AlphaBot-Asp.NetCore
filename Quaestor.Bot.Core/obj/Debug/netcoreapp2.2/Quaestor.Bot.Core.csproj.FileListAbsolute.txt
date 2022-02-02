@@ -1,0 +1,9 @@
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.Core\bin\Debug\netcoreapp2.2\Quaestor.Bot.Core.deps.json
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.Core\bin\Debug\netcoreapp2.2\Quaestor.Bot.Core.dll
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.Core\bin\Debug\netcoreapp2.2\Quaestor.Bot.Core.pdb
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.Core\obj\Debug\netcoreapp2.2\Quaestor.Bot.Core.csprojAssemblyReference.cache
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.Core\obj\Debug\netcoreapp2.2\Quaestor.Bot.Core.csproj.CoreCompileInputs.cache
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.Core\obj\Debug\netcoreapp2.2\Quaestor.Bot.Core.AssemblyInfoInputs.cache
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.Core\obj\Debug\netcoreapp2.2\Quaestor.Bot.Core.AssemblyInfo.cs
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.Core\obj\Debug\netcoreapp2.2\Quaestor.Bot.Core.dll
+D:\LatestBOT\Quaestor Bot\Quaestor.Bot.Backend\Quaestor.Bot\src\Quaestor.Bot.Core\obj\Debug\netcoreapp2.2\Quaestor.Bot.Core.pdb
